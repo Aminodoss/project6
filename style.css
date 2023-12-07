@@ -1,0 +1,204 @@
+
+@media (max-width:650px){
+    .hassen{
+        flex-direction: column;
+    }
+    .hassen .hamza{
+        height: 220px;
+        
+    }
+    .hassen .hamza p{
+        width: 90%;
+        transform: translateY(20px);
+    }
+    .hassen .hamza h3{
+        transform: translateY(10px);
+    }
+}
+@media (max-width:650px){
+    .hassen {width: 145%;
+    }
+}
+@media (max-width:650px){
+    .hassen .amin{
+        transform: translateX(-20px);
+        height: 200px;
+        padding-top: 30px;
+    }
+    .hassen .amin button{
+        padding: 5px 102px 10px 56px;
+        font-size: 12px;
+        transform: translateY(33px);
+        
+        
+      
+    }
+    .hassen .amin h3{
+        font-size: 15px;
+        transform: translateY(2px);
+    }
+    
+}
+
+@media (max-width:650px){
+    .container .mama{
+        padding: 25px;
+        width: 80%;
+        height: 220px;
+        padding-top: 30px;
+
+    
+    }
+}
+    @media (max-width:650px){
+            
+       .container .mama h2{
+   
+            font-size: 18px;
+           }
+        }
+        @media (max-width:650px){
+           .container .mama p{
+            font-size: 12px;
+            transform: translateY(20px);
+                
+            } 
+         
+            }
+            @media (max-width:650px){
+               .container .mama h3{
+                font-size: 14px;
+                transform: translateY(13px);
+                    }
+             
+                }
+  
+     
+     
+
+
+@media (max-width:650px){
+.hassen .amin p{
+        
+    font-size: 12px;
+    transform: translateY(14px);
+
+}
+.hassen .amin .spn {
+    font-size: 14px;
+    transform: translateY(13px);
+}
+.amin .spn span:nth-of-type(1){
+    font-size: 26px;
+}
+
+}
+
+
+ 
+
+.hassen{
+    display: flex;
+    
+}
+
+.container{
+    width: 40%;
+    margin: auto;
+    margin-top: 110px;
+    border-radius: 8px 8px 8px 8px;
+    overflow: hidden;
+}
+.amin{
+    width: 50%;
+    background-color: hsl(179, 62%, 43%);
+    padding: 20px 35px 20px 50px;
+}
+.amin h3{
+    color: white ;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 550;
+}
+.amin p{
+    font-family: sans-serif;
+    font-size: 13px;
+    transform: translateY(-8px);
+    color: #ffffffb3
+
+}
+.amin button{
+    padding: 12px 80px 12px 80px;
+    border-radius: 6px;
+    border: 1px  black;
+    background-color: hsl(71, 73%, 54%);;
+    color: white;
+    box-shadow: 4px 8px 18px -12px black;
+    
+}
+.spn span:nth-of-type(1) {
+    color: white ;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.spn span:nth-of-type(2) {
+   padding-left: 8px;
+   color:  #ffffff70;
+   font-family: sans-serif;
+   font-size: 13px;
+    
+}
+.spn{
+    display: flex;
+    
+    align-items: center;
+}
+
+.hamza{
+    width: 50%;
+    background-color:   hsl(179deg 62% 43% / 89%); 
+    padding: 20px 30px 20px 35px; 
+}
+.hamza p{
+    width: 80%;
+    font-size: 13px;
+    color:  rgb(255 255 255 / 53%);
+    font-family: sans-serif;
+    line-height: 1.3;
+}
+.hamza h3{
+color: #ffffffd6;
+font-family: sans-serif;
+font-size: 17px;
+}
+body{
+background-color:hsl(204, 43%, 93%)
+}
+.mama{
+    background-color:white ;
+    padding: 10px 30px 10px 35px;
+}
+.mama h2{
+ color:  hsl(179, 62%, 43%);  
+ font-family: sans-serif;
+ font-size: 22px;
+}
+.mama p{
+    font-size: 13px;
+    font-family : sans-serif;
+   color:  hsl(218deg 22% 67% / 87%);
+    line-height:1.7;
+    transform:translateY(-12px)
+    
+   
+    
+}
+.mama h3{
+    color: hsl(71, 73%, 54%);
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
